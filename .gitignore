@@ -1,2 +1,4 @@
 output/*
 wandb/*
+*.csv
+trl-local
